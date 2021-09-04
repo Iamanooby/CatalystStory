@@ -1,7 +1,11 @@
 # CatalystStory
 Run application:
 - Demo Version only available on Windows -
-Run the .exe file inside the "TheCatalyst" Folder.
+1) Click the green button "Code" --> Download Zip
+2) Export the CatalystStory.zip file in your Downloads folder
+3) Open the CatalystStory Folder. This folder contains all our Unity code files :)
+4) Open the "TheCatalyst" Folder
+5) Run the .exe file "Catalyst Story"
 
 *************************************************************************************************************
 The Catalyst:
