@@ -1,7 +1,7 @@
 # CatalystStory
 Run application:
 - Demo Version only available on Windows -
-
+Run the .exe file inside the "TheCatalyst" Folder.
 
 *************************************************************************************************************
 The Catalyst:
