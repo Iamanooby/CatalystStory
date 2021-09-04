@@ -1,0 +1,133 @@
+fileFormatVersion: 2
+guid: 19b45d9637ca16e498e6928abc71b477
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 1fa25d03934ea624a82bf2fcee6f0873, type: 3}
+  missingFiles: []
+  errors:
+  - Errors detected in tileset 'Overworld.tsx'. Check the tileset inspector for more
+    details. Your map may be broken until these are fixed.
+  - Could not find tile 1. Make sure the tilesets were successfully imported.
+  - Could not find tile 1201. Make sure the tilesets were successfully imported.
+  - Could not find tile 1202. Make sure the tilesets were successfully imported.
+  - Could not find tile 1203. Make sure the tilesets were successfully imported.
+  - Could not find tile 1321. Make sure the tilesets were successfully imported.
+  - Could not find tile 1163. Make sure the tilesets were successfully imported.
+  - Could not find tile 1162. Make sure the tilesets were successfully imported.
+  - Could not find tile 1241. Make sure the tilesets were successfully imported.
+  - Could not find tile 1282. Make sure the tilesets were successfully imported.
+  - Could not find tile 1242. Make sure the tilesets were successfully imported.
+  - Could not find tile 1322. Make sure the tilesets were successfully imported.
+  - Could not find tile 688. Make sure the tilesets were successfully imported.
+  - Could not find tile 1161. Make sure the tilesets were successfully imported.
+  - Could not find tile 1281. Make sure the tilesets were successfully imported.
+  - Could not find tile 1243. Make sure the tilesets were successfully imported.
+  - Could not find tile 1201. Make sure the tilesets were successfully imported.
+  - Could not find tile 1202. Make sure the tilesets were successfully imported.
+  - Could not find tile 1203. Make sure the tilesets were successfully imported.
+  - Could not find tile 484. Make sure the tilesets were successfully imported.
+  - Could not find tile 444. Make sure the tilesets were successfully imported.
+  - Could not find tile 45. Make sure the tilesets were successfully imported.
+  - Could not find tile 46. Make sure the tilesets were successfully imported.
+  - Could not find tile 208. Make sure the tilesets were successfully imported.
+  - Could not find tile 85. Make sure the tilesets were successfully imported.
+  - Could not find tile 86. Make sure the tilesets were successfully imported.
+  - Could not find tile 1321. Make sure the tilesets were successfully imported.
+  - Could not find tile 1163. Make sure the tilesets were successfully imported.
+  - Could not find tile 321. Make sure the tilesets were successfully imported.
+  - Could not find tile 683. Make sure the tilesets were successfully imported.
+  - Could not find tile 685. Make sure the tilesets were successfully imported.
+  - Could not find tile 684. Make sure the tilesets were successfully imported.
+  - Could not find tile 1241. Make sure the tilesets were successfully imported.
+  - Could not find tile 1242. Make sure the tilesets were successfully imported.
+  - Could not find tile 1282. Make sure the tilesets were successfully imported.
+  - Could not find tile 204. Make sure the tilesets were successfully imported.
+  - Could not find tile 205. Make sure the tilesets were successfully imported.
+  - Could not find tile 206. Make sure the tilesets were successfully imported.
+  - Could not find tile 725. Make sure the tilesets were successfully imported.
+  - Could not find tile 322. Make sure the tilesets were successfully imported.
+  - Could not find tile 7. Make sure the tilesets were successfully imported.
+  - Could not find tile 8. Make sure the tilesets were successfully imported.
+  - Could not find tile 9. Make sure the tilesets were successfully imported.
+  - Could not find tile 10. Make sure the tilesets were successfully imported.
+  - Could not find tile 11. Make sure the tilesets were successfully imported.
+  - Could not find tile 47. Make sure the tilesets were successfully imported.
+  - Could not find tile 48. Make sure the tilesets were successfully imported.
+  - Could not find tile 49. Make sure the tilesets were successfully imported.
+  - Could not find tile 50. Make sure the tilesets were successfully imported.
+  - Could not find tile 51. Make sure the tilesets were successfully imported.
+  - Could not find tile 87. Make sure the tilesets were successfully imported.
+  - Could not find tile 88. Make sure the tilesets were successfully imported.
+  - Could not find tile 89. Make sure the tilesets were successfully imported.
+  - Could not find tile 90. Make sure the tilesets were successfully imported.
+  - Could not find tile 91. Make sure the tilesets were successfully imported.
+  - Could not find tile 127. Make sure the tilesets were successfully imported.
+  - Could not find tile 128. Make sure the tilesets were successfully imported.
+  - Could not find tile 129. Make sure the tilesets were successfully imported.
+  - Could not find tile 130. Make sure the tilesets were successfully imported.
+  - Could not find tile 131. Make sure the tilesets were successfully imported.
+  - Could not find tile 167. Make sure the tilesets were successfully imported.
+  - Could not find tile 168. Make sure the tilesets were successfully imported.
+  - Could not find tile 169. Make sure the tilesets were successfully imported.
+  - Could not find tile 170. Make sure the tilesets were successfully imported.
+  - Could not find tile 171. Make sure the tilesets were successfully imported.
+  - Could not find tile 721. Make sure the tilesets were successfully imported.
+  - Could not find tile 1162. Make sure the tilesets were successfully imported.
+  - Could not find tile 646. Make sure the tilesets were successfully imported.
+  - Could not find tile 647. Make sure the tilesets were successfully imported.
+  - Could not find tile 686. Make sure the tilesets were successfully imported.
+  - Could not find tile 687. Make sure the tilesets were successfully imported.
+  - Could not find tile 523. Make sure the tilesets were successfully imported.
+  - Could not find tile 524. Make sure the tilesets were successfully imported.
+  - Could not find tile 1161. Make sure the tilesets were successfully imported.
+  - Could not find tile 1322. Make sure the tilesets were successfully imported.
+  - Could not find tile 1281. Make sure the tilesets were successfully imported.
+  - Could not find tile 688. Make sure the tilesets were successfully imported.
+  - Could not find tile 243. Make sure the tilesets were successfully imported.
+  - Could not find tile 244. Make sure the tilesets were successfully imported.
+  - Could not find tile 245. Make sure the tilesets were successfully imported.
+  - Could not find tile 386. Make sure the tilesets were successfully imported.
+  - Could not find tile 387. Make sure the tilesets were successfully imported.
+  - Could not find tile 388. Make sure the tilesets were successfully imported.
+  - Could not find tile 564. Make sure the tilesets were successfully imported.
+  - Could not find tile 727. Make sure the tilesets were successfully imported.
+  - Could not find tile 283. Make sure the tilesets were successfully imported.
+  - Could not find tile 284. Make sure the tilesets were successfully imported.
+  - Could not find tile 285. Make sure the tilesets were successfully imported.
+  - Could not find tile 426. Make sure the tilesets were successfully imported.
+  - Could not find tile 427. Make sure the tilesets were successfully imported.
+  - Could not find tile 428. Make sure the tilesets were successfully imported.
+  - Could not find tile 323. Make sure the tilesets were successfully imported.
+  - Could not find tile 324. Make sure the tilesets were successfully imported.
+  - Could not find tile 325. Make sure the tilesets were successfully imported.
+  - Could not find tile 466. Make sure the tilesets were successfully imported.
+  - Could not find tile 467. Make sure the tilesets were successfully imported.
+  - Could not find tile 468. Make sure the tilesets were successfully imported.
+  - Could not find tile 214. Make sure the tilesets were successfully imported.
+  - Could not find tile 215. Make sure the tilesets were successfully imported.
+  - Could not find tile 1086. Make sure the tilesets were successfully imported.
+  - Could not find tile 254. Make sure the tilesets were successfully imported.
+  - Could not find tile 255. Make sure the tilesets were successfully imported.
+  - Could not find tile 1126. Make sure the tilesets were successfully imported.
+  - Could not find tile 294. Make sure the tilesets were successfully imported.
+  - Could not find tile 295. Make sure the tilesets were successfully imported.
+  - Could not find tile 726. Make sure the tilesets were successfully imported.
+  - Could not find tile 648. Make sure the tilesets were successfully imported.
+  warnings: []
+  missingSortingLayers: []
+  missingLayers: []
+  missingTags: []
+  importerVersion: 23
+  pixelsPerUnit: 100
+  edgesPerEllipse: 32
+  numberOfObjectsImported: 2
+  tilesAsObjects: 0
+  sortingMode: 0
+  isIsometric: 0
+  customImporterClassName: 
+  internalTilesets: []

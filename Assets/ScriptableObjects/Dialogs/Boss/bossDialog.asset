@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 47486e8ecbe3adb4d8d7e5eb307171f3, type: 3}
+  m_Name: bossDialog
+  m_EditorClassIdentifier: 
+  StringList:
+  - "Are you also here to eliminate me? I didn\u2019t do anything wrong\u2026"
+  - All I ever wanted is to be like all of you. To have friends I can laugh with.
+    To go on exciting adventures. To be a normal boy.
+  - "Yet, I was treated badly by the townspeople for being \u201Cdifferent\u201D.
+    Day after day, I cried myself to sleep. It was until I met the Crystal Expedition
+    Team that I was finally saved..."
+  - They were the only ones who showed me kindness and accepted me for who I am.
+    But they, too, are gone after we destroyed the crystals.
+  - "\u2026 I thought that the townsfolk would accept me after saving Mythshield
+    but they\u2026 They threw me out because they became more afraid of me."
+  - "Why\u2026 Why did I even volunteer to destroy the crystals? *A crystal shard
+    around Kuro begins to glow forebodingly."
+  - "\u2026 No\u2026 There\u2019s nothing you can do to stop my pain! Get away from
+    me!"

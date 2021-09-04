@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b804a912d6c6e8045af8cbca3982c93a, type: 3}
+  m_Name: PlayerStats
+  m_EditorClassIdentifier: 
+  playerEXP: {fileID: 11400000, guid: 9d1504aeb1b0e1a4988152dcc5429401, type: 2}
+  playerEXPToLevel: {fileID: 11400000, guid: 7395739afb6e5c346b0c280f73aa0154, type: 2}
+  playerCurrentHP: {fileID: 11400000, guid: 46e1fa86d2c1b5748bfc16fa0c6acc51, type: 2}
+  playerMaxHP: {fileID: 11400000, guid: a961e71049627fe46b5657cb595a39fa, type: 2}
+  playerInventory: {fileID: 11400000, guid: 9742fb22cdd26064a8f27592df227d44, type: 2}
+  playerLevel: {fileID: 11400000, guid: 599670c5dfa667b4a8cf8c8cfe7aa634, type: 2}
+  playerName: Hikari
+  playerMaxPP: {fileID: 11400000, guid: 2d643f934a24a2642b06b3670438d65c, type: 2}
+  playerPP: {fileID: 11400000, guid: 5e52e6fa0f3486142ae030e5e8fc4edb, type: 2}
+  playerSkillSet: {fileID: 11400000, guid: dd8f786cfeb9efe48b041308637bfc17, type: 2}
+  playerInitiative: {fileID: 11400000, guid: c2aca25cea4afd04cb2d42e6934124da, type: 2}
+  playerOptimism: {fileID: 11400000, guid: e478b8311f82b6d478465593396ae9fd, type: 2}
+  playerPotential: {fileID: 11400000, guid: 79885bdb9aa852b48803fb880b01ce42, type: 2}
+  playerReflective: {fileID: 11400000, guid: 8cf803fb1bba05349a7369c563ef4ec1, type: 2}
+  playerResilience: {fileID: 11400000, guid: 7209bf926e3cf8740957c95ef2f01cf0, type: 2}

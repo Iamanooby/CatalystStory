@@ -1,0 +1,85 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &4090206288580035979
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 1843964525515184280}
+  - component: {fileID: 8865251849085451488}
+  - component: {fileID: 915737192152798921}
+  m_Layer: 0
+  m_Name: Scene Transition
+  m_TagString: Untagged
+  m_Icon: {fileID: 5721338939258241955, guid: 0000000000000000d000000000000000, type: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1843964525515184280
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4090206288580035979}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 2.074, y: -3.787, z: -67.985245}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!61 &8865251849085451488
+BoxCollider2D:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4090206288580035979}
+  m_Enabled: 1
+  m_Density: 1
+  m_Material: {fileID: 0}
+  m_IsTrigger: 1
+  m_UsedByEffector: 0
+  m_UsedByComposite: 0
+  m_Offset: {x: -0.051686168, y: -0.029602647}
+  m_SpriteTilingProperty:
+    border: {x: 0, y: 0, z: 0, w: 0}
+    pivot: {x: 0, y: 0}
+    oldSize: {x: 0, y: 0}
+    newSize: {x: 0, y: 0}
+    adaptiveTilingThreshold: 0
+    drawMode: 0
+    adaptiveTiling: 0
+  m_AutoTiling: 0
+  serializedVersion: 2
+  m_Size: {x: 0.32116914, y: 0.10258174}
+  m_EdgeRadius: 0
+--- !u!114 &915737192152798921
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4090206288580035979}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 91494bbb702c33f4bb2a9e44940485ee, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  sceneToLoad: Overworld
+  playerPosition: {x: 1.677, y: -1.914}
+  playerStorage: {fileID: 11400000, guid: 0143a5b9fa114d243801b05ecf380d97, type: 2}
+  CamMaxPosition: {x: 2.22, y: -1}
+  CamMaxPos: {fileID: 11400000, guid: d90d66fb444ce824ebf9fba2b8acda9b, type: 2}
+  CamMinPosition: {x: 1.77, y: -3}
+  CamMinPos: {fileID: 11400000, guid: bc71b618e049fce438b7804d46c5d2b8, type: 2}
+  needAudio: 1
+  BGM: {fileID: 8300000, guid: 3c093be0e8ad03f4a9afcb6d78fc8b78, type: 3}
+  BGMvalue: {fileID: 11400000, guid: 8e10e94eba0064f42b420c2f1ce560ae, type: 2}
+  fadeInPanel: {fileID: 7391280967812871940, guid: 3d19b6ecc98767f4d96207cd73f73213, type: 3}
+  fadeOutPanel: {fileID: 5934006825054903597, guid: 32540b6d8e793644cb766362ca4fced9, type: 3}
+  fadeWait: 0.33

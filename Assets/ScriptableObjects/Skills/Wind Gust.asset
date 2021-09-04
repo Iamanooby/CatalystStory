@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 19d517dd74825a74c8b53e6cbe20ad81, type: 3}
+  m_Name: Wind Gust
+  m_EditorClassIdentifier: 
+  skillName: Wind Gust
+  skillDesc: 'Book flaps vigorously (Dmg: 2, PP: 1) '
+  Attack: 1
+  skillDamage: 2
+  PPConsumption: 1
+  Defense: 0
+  defenseValue: 0
+  heal: 0
+  healValue: 0

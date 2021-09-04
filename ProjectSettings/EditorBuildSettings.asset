@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/HouseInterior.unity
+    guid: 2c3bd75c1986df340bc3efdba25fe24d
+  - enabled: 1
+    path: Assets/Scenes/Overworld.unity
+    guid: ddfd1bffe20420c439574f423edc3a07
+  - enabled: 1
+    path: Assets/Scenes/Cave.unity
+    guid: 51d0d367f7e905145b821e60050c88fb
+  - enabled: 1
+    path: Assets/Scenes/Battle Scene (Forest).unity
+    guid: 5dea4883f49b76c438b202f822a02359
+  m_configObjects: {}

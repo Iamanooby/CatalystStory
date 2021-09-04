@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 47486e8ecbe3adb4d8d7e5eb307171f3, type: 3}
+  m_Name: IntroDialog
+  m_EditorClassIdentifier: 
+  StringList:
+  - Press "Spacebar" to continue the chat or to interact with world objects
+  - Control your character with the arrow keys
+  - Press "X" to attack objects in your way
+  - '"Menu" at the top right helps you to check yourself out...'
+  - Remember to write your journal entries, that helps to build up your catalysts...
+  - Train yourself regularly (Training Option) to make yourself stronger...
+  - '*Wooff**'
+  - Is that a dog? I should properly check him out...

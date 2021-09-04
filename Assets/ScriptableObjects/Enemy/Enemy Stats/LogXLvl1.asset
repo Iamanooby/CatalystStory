@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5bd4ec65b35571341a8b5c67c6fc112e, type: 3}
+  m_Name: LogXLvl1
+  m_EditorClassIdentifier: 
+  unitName: LogX
+  unitLevel: 1
+  unitPrefab: {fileID: 6788812047196924575, guid: 3885bab1ae2ab8a4fa9eea7d5200160c, type: 3}
+  damage: 1
+  maxHP: {fileID: 11400000, guid: 8382bf27ae7106f46bed19b428bfe3e1, type: 2}
+  exp: {fileID: 11400000, guid: 7f79e8ef7af2f9f409992fcd215edaac, type: 2}
+  initiative: 1
+  victoryText: Log has been blessed!
+  defeatText: You were scared away by how the log was able to move!
+  StartText: A wild LogX appears...

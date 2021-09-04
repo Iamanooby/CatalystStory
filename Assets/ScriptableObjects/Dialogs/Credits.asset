@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 47486e8ecbe3adb4d8d7e5eb307171f3, type: 3}
+  m_Name: Credits
+  m_EditorClassIdentifier: 
+  StringList:
+  - What will you do? What will Hikari do?
+  - Thank you for playing! We hope that you had fun but most importantly, we hope
+    that you would continue to support us!   Special thanks to Chatty Caterpillar
+    for allowing us to use part of their mental wellness technique for this project!

@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5bd4ec65b35571341a8b5c67c6fc112e, type: 3}
+  m_Name: LogXLvl3
+  m_EditorClassIdentifier: 
+  unitName: Log(XYZ)
+  unitLevel: 3
+  unitPrefab: {fileID: 6788812047196924575, guid: 3885bab1ae2ab8a4fa9eea7d5200160c, type: 3}
+  damage: 6
+  maxHP: {fileID: 11400000, guid: bc94e4f25700f3c41a69fb52cbdb9359, type: 2}
+  exp: {fileID: 11400000, guid: 71878a43e47a21947a876360effd69c4, type: 2}
+  initiative: 4
+  victoryText: Log(XYZ) solved!
+  defeatText: It's okay, you'll be back to solve it...
+  StartText: What is this??? Should you come back later???
