@@ -7,6 +7,9 @@ Run application:
 4) Open the "TheCatalyst" Folder
 5) Run the .exe file "Catalyst Story"
 
+As a backup, you may download the game from:
+https://drive.google.com/drive/folders/1QHAXbu0iyJwPog7Eo5gg_95RHwxvyry7?usp=sharing
+
 *************************************************************************************************************
 The Catalyst:
 The Catalyst Collective was founded based on the belief in empowerment — we wanted to empower our 
