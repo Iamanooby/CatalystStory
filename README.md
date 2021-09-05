@@ -3,7 +3,7 @@ Run application:
 - Demo Version only available on Windows -
 1) Click on the "TheCatalyst.zip" file on github (No need to zip the whole repo)
 2) Click on "Download" or "View raw"
-3) Export the donwloaded "TheCatalyst.zip" file
+3) Export the downloaded "TheCatalyst.zip" file
 4) Open the exported "TheCatalyst" folder
 5) Run the .exe file "Catalyst Story"
 
