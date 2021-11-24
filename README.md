@@ -55,3 +55,9 @@ Run -> Escapes from the opponent
 We hope you enjoy our game, and most importantly, we hope that you continue to support us! 
 
 Special Thanks: Chatty Caterpillar for allowing us to use part of their mental wellness technique for this project
+
+Developed by:
+Kwok Keith
+Shaun Phua
+Chi Han
+Ryan Ong
